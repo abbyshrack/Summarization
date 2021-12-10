@@ -4,4 +4,4 @@ This page will be used to post project updates and code for the summarization re
 
 [Project Proposal](https://github.com/abbyshrack/summarization/blob/main/Project%20Proposal.pdf) 
 
-[Milestone 1] (https://github.com/abbyshrack/Summarization/blob/main/Milestone%201.pdf)
+[Milestone 1](https://github.com/abbyshrack/Summarization/blob/main/Milestone%201.pdf)
